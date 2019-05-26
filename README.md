@@ -3,13 +3,10 @@
 ### Reference Documentation
 For further reference, please consider the following sections:
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
+* [Official Blog](https://knowdb.tech)
 
 ### Guides
 The following guides illustrate how to use some features concretely:
 
-* [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
+* [REST with Java 12 and SpringBoot](https://knowdb.tech/java-12-how-to-create-a-rest-service-with-springboot/)
 
